@@ -1,4 +1,4 @@
-# Wine-Quality-Classification  | MACHINE lEARNING 
+# Wine-Quality-Classification  | MACHINE LEARNING 
 
 Attribute Information:
 Input variables (based on physicochemical tests):
